@@ -1,0 +1,20 @@
+{
+  "name": "TestPolymer",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.2.0",
+    "pdf-element": "^1.0.14",
+    "nvd3-elements": "^0.22.0",
+    "paper-button": "https://github.com/PolymerElements/paper-button.git#^2.0.0"
+  }
+}
